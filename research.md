@@ -9,6 +9,6 @@ My research interests include air-sea interaction and the role of upper ocean pr
 
 
   
-  <img src="github.com/jrudzin/jrudzin.github.io/img/airplane.png" width="600" height="400"> 
+  <img src="github.com/jrudzin/jrudzin.github.io/blob/gh-pages/img/airplane.png" width="600" height="400"> 
 
 
