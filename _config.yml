@@ -14,7 +14,7 @@ author: Johna E. Rudzin
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "About Me"
+  About Me: "aboutme"
   Research:
 #    - Learn markdown: "https://www.markdowntutorial.com/"
   Graduate Student Opportunities:
