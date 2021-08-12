@@ -9,6 +9,6 @@ My research interests include air-sea interaction and the role of upper ocean pr
 
 
   
-  <img src="/img/airplane.png" width="600" height="400"> 
+
 
 
