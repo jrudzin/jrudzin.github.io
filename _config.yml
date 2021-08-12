@@ -39,16 +39,16 @@ round-avatar: false
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "johna.rudzin@geosci.msstate.com"
+   email: "johna.rudzin@geosci.msstate.com"
 #  facebook: deanattali
-  github: "github.com/jrudzin"
+   github: "github.com/jrudzin"
 #  twitter: daattali
 #  patreon: DeanAttali
 #  youtube: c/daattali
 #  medium: yourname
 #  reddit: yourname
-  linkedin: "https://www.linkedin.com/in/johna-rudzin/"
-   researchgate:"https://www.researchgate.net/profile/Johna-Rudzin"
+   linkedin: "https://www.linkedin.com/in/johna-rudzin/"
+   researchgate: "https://www.researchgate.net/profile/Johna-Rudzin"
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -61,8 +61,8 @@ social-network-links:
 #  telegram: yourname
 #  calendly: yourname
 #  mastodon: instance.url/@username
-  ORCID: "https://orcid.org/0000-0002-9802-8663"
-  google-scholar: "https://scholar.google.com/citations?hl=en&user=U19Gf0cAAAAJ&view_op=list_works&gmla=AJsN-F79ALpLGhDId7wxmBGR6t-gDq9sneLG7IYAsHR5R6zX4rN_e-FJGfgiN7iwJ3Ti6VioTU_7NPX1sTfQj3XSH399DYFnSA"
+   ORCID: "https://orcid.org/0000-0002-9802-8663"
+   google-scholar: "https://scholar.google.com/citations?hl=en&user=U19Gf0cAAAAJ&view_op=list_works&gmla=AJsN-F79ALpLGhDId7wxmBGR6t-gDq9sneLG7IYAsHR5R6zX4rN_e-FJGfgiN7iwJ3Ti6VioTU_7NPX1sTfQj3XSH399DYFnSA"
 
 # If you want to show a link to an RSS in the footer, add the site description here.
 # If you don't want to show an RSS link, remove the following line.
