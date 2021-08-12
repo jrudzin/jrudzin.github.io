@@ -20,10 +20,11 @@ author: Updated August
 
 navbar-links:
   About Me: "aboutme"
-  Research:
+  Research: "research"
 #    - Learn markdown: "https://www.markdowntutorial.com/"
-  Graduate Student Opportunities:
+  Graduate Student Opportunities: "gradstudent"
   Contact: "https://www.geosciences.msstate.edu/people/professors/johna-rudzin/"
+  Home: ""
 
 # --- Logo --- #
 
