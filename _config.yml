@@ -131,6 +131,9 @@ footer-link-col: "#404040"
 #site-js:
 #  - "/assets/js/custom-script.js"
 
+#picture at the top of the page
+cover-img: "/img/Eduoard.png": "Hurricane Eduoard 2014, photo by J. Rudzin"
+
 # --- Web Analytics Section --- #
 
 # Fill in your Google Analytics gtag.js ID to track your website using gtag
