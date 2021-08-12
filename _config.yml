@@ -14,6 +14,7 @@ description: Assistant professor of Meteorology at Mississippi State University
 author: Updated August
 
 
+
 # --- List of links in the navigation bar --- #
 
 navbar-links:
@@ -131,8 +132,9 @@ footer-link-col: "#404040"
 #site-js:
 #  - "/assets/js/custom-script.js"
 
-#picture at the top of the page
-cover-img: "/img/Eduoard.png": "Hurricane Eduoard 2014, photo by J. Rudzin"
+#picture at top of the page
+cover-image: "/img/Eduoard.png" : "Hurricane Eduoard 2014, photo by J. Rudzin"
+
 
 # --- Web Analytics Section --- #
 
