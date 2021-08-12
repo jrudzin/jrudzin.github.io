@@ -15,10 +15,11 @@ My research interests include air-sea interaction and the role of upper ocean pr
         <figcaption>Image 1</figcaption>
     </figure>
     <figure>
-        <a href="/img/AtSeainstrument.png"><img src="/img/image2.jpg">
+        <img src="/img/image2.jpg">
         <figcaption>Image 2</figcaption></a>
     </figure>
     <figure>
         <img src="/img/hurricane_waves.png">
+        <figcaption>Image 3</figcaption></a> 
     </figure>
 </div>
