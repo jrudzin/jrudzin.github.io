@@ -1,5 +1,5 @@
 ---
 layout: page
-title: Hurricanes, Oceangraphy, & Air-Sea Interaction
+subtitle: Hurricanes, Oceangraphy, & Air-Sea Interaction
 
 ---
