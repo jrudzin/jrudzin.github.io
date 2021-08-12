@@ -66,7 +66,7 @@ social-network-links:
 #  calendly: yourname
 #  mastodon: instance.url/@username
    ORCID: "https://orcid.org/0000-0002-9802-8663"
-   google-scholar: "https://scholar.google.com/citations?hl=en&user=U19Gf0cAAAAJ&view_op=list_works&gmla=AJsN-F79ALpLGhDId7wxmBGR6t-gDq9sneLG7IYAsHR5R6zX4rN_e-FJGfgiN7iwJ3Ti6VioTU_7NPX1sTfQj3XSH399DYFnSA"
+   google-scholar: "https://scholar.google.com/citations?user=U19Gf0cAAAAJ&hl=en"
    github: "github.com/jrudzin"
    
 # If you want to show a link to an RSS in the footer, add the site description here.
