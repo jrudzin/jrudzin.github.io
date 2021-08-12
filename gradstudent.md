@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Graduate Student Opportunities
+subtitle: Graduate Student Opportunities
 
 ---
 
