@@ -5,6 +5,6 @@ subtitle: Assistant Professor of Meteorology in the Department of Geosciences at
 css: "/css/index.css"
 meta-title: "Dr. Johna Rudzin"
 meta-description: "Assistant Professor of Meteorology in the Department of Geosciences at Mississippi State University"
-bigimg:
-  - "/img/Edouard.png" : "Hurricane Eduoard, 2014"
+![] ("/img/Edouard.png" : "Hurricane Eduoard, 2014")
+
 ---
