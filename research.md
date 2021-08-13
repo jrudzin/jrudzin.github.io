@@ -7,14 +7,14 @@ galleries:
  1:
    # row one in gallery one
    -
-     - { url: '/img/airplane.png'}
-     - { url: '/img/AtSeainstrument.png'}
-     - { url: '/img/airplane_working.jpg'}
+     - { url: 'https://github.com/jrudzin/jrudzin.github.io/blob/gh-pages/img/airplane.png'}
+     - { url: 'https://github.com/jrudzin/jrudzin.github.io/blob/gh-pages/img/AtSeainstrument.png'}
+     - { url: 'https://github.com/jrudzin/jrudzin.github.io/blob/gh-pages/img/airplane_working.jpg'}
    # row two in gallery one
    -
-     - { url: '/img/hurricane_waves_plane.jpg'}
-     - { url: '/img/waltonsmith_girls.jpg'}
-     - { url: '/img/johna_expendables.png'}
+     - { url: 'https://github.com/jrudzin/jrudzin.github.io/blob/gh-pages/img/hurricane_waves_plane.jpg'}
+     - { url: 'https://github.com/jrudzin/jrudzin.github.io/blob/gh-pages/img/waltonsmith_girls.jpg'}
+     - { url: 'https://github.com/jrudzin/jrudzin.github.io/blob/gh-pages/img/johna_expendables.png'}
 ---
 
 
