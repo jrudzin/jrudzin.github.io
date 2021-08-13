@@ -1,6 +1,10 @@
 ---
 layout: page
 title: Hurricanes, Oceangraphy, & Air-Sea Interaction
+thumbnail-img: /img/airplane.png
+thumbnail-img: /img/AtSeainstrument.png
+thumbnail-img: /img/airplane_working.jpg
+
 
 galleries:
  # gallery number one
