@@ -24,6 +24,8 @@ galleries:
 
 My research interests include air-sea interaction and the role of upper ocean processes on air-sea exchange, tropical cyclone air-sea interaction and its influence on the atmospheric boundary layer, the influence of salinity stratification on air-sea fluxes during tropical cyclones, the effect of surface ocean waves on air-sea interaction in TCs, and the influence of air-sea interaction on atmospheric boundary layer stability and convection.
 
+![](/img/airplane.png)
+![](/img/AtSeainstrument.png)
+![](/img/airplane_working.jpg)
 
 
-{% include gallery.html  gallery=1 %}
