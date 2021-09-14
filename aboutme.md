@@ -6,7 +6,7 @@ title:
 
 <h2> A little bit about my life's adventures.. </h2>
 
-<img src=”/img/photo_med.jpg” align=”right” />
+<img src=”/img/photo_med.jpg” align=”left” />
 
 
 <p>
