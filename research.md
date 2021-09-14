@@ -13,6 +13,8 @@ title:
 
 <p text-align="right"> I have experience in utilizing both observations and numerical models for my research. I am most familiar with insitu atmospheric and ocean expendable instrumentation deployed from aircraft, such as dropsondes and ocean profilers like ALAMO and AXBTs/AXCTDs/AXCPs, moored oceanic buoy data, Argo floats, satellite data that include atmospheric moisture and winds, and ocean measurements such as sea surface temperature, salinity, and currents. I am familiar utilizing similar idealized mixed layer models up to fully coupled ocean-atmospheric models. </p>
 
+<p> Click on the links below in the footer portion of this page to access my Google Scholar and ORCID accounts to see my publications </p>
+
 
   
 
