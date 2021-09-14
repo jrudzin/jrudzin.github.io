@@ -31,7 +31,7 @@ My research interests include air-sea interaction and the role of upper ocean pr
 <img src="/img/AtSeainstrument.png" 
      width="300" 
      height="300" />
- <img src="/img/airplane_working.jpg" 
+ <img src="/img/deployAXCTD.jpg" 
      width="500" 
      height="300" />    
 
