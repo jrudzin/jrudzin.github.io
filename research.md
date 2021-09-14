@@ -14,7 +14,7 @@ title:
      width="600" 
      height="400" />
      
-     </div>
+</div>
      
 <img src="/img/AtSeainstrument.png" 
      width="500" 
