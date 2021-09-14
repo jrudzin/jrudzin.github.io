@@ -13,6 +13,9 @@ title:
 <img src="/img/airplane.png" 
      width="600" 
      height="400" />
+     
+     </div>
+     
 <img src="/img/AtSeainstrument.png" 
      width="500" 
      height="500" />
@@ -20,6 +23,6 @@ title:
      width="500" 
      height="500" />    
 
-</div>
+
 
 
