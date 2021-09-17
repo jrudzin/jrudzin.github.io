@@ -23,6 +23,7 @@ navbar-links:
   Research: "research"
 #    - Learn markdown: "https://www.markdowntutorial.com/"
   Research Opportunities: "researchopps"
+  CV: "/docs/Rudzin_CV_full.pdf"
   Contact: "https://www.geosciences.msstate.edu/people/professors/johna-rudzin/"
   Home: "jrudzin.github.io"
 
